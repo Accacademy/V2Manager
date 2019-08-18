@@ -1,0 +1,16 @@
+{
+    "Mysql_Host": "52.175.33.47",
+    "Mysql_Port": 3306,
+    "Mysql_User": "MyV2Ray",
+    "Mysql_Password": "njwDDJBHmwZ8Fcmk",
+    "Mysql_Db": "MyV2Ray",
+    "Mysql_TLS": "false",
+    "Mysql_MaxOpenConns": 100,
+    "Mysql_MaxIdleConns": 10,
+    "V2rayClientAddr": "127.0.0.1:8301",
+    "V2rayTag": "proxy",
+    "Email": "@qq.com",
+    "AlterID": 4,
+    "Level": 1,
+    "CheckRate": 64
+}
